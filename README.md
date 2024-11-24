@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, I build a pipeline that can be used within a web app to process real-world, user-supplied images.  Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  Check out my article on [Medium](https://medium.com/@amanjot.uf/dog-breed-classification-using-resnet50-and-vgg19-42133f631e7b)
-
+Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, I build a pipeline that can be used within a web app to process real-world, user-supplied images.  Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. 
 
 
 ![Sample Output](images/sample_dog_output.png)
@@ -16,7 +15,7 @@ Along with exploring state-of-the-art CNN models for classification, I had to ma
 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
-git clone https://github.com/udacity/dog-project.git
+git clone https://github.com/EPVIAX/Project_dog_breed_class
 cd dog-project
 ```
 
